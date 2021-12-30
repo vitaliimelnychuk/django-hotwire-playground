@@ -1,0 +1,4 @@
+django==4.0
+turbo-django==0.2.5
+channels==3.04
+channels_redis==3.3.1
